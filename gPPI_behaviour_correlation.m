@@ -1,3 +1,5 @@
+%Correlations between PCC-DLPFC functional decoupling and the behavioural outcomes (SMS-Mind, BCT and DASS)
+
 clear
 close all
 root_dir = '/Applications/Academic_Material/PhD/Main_experiment/UPDATED_code_data_results';
