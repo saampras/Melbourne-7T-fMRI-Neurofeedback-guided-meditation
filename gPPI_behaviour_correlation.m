@@ -1,4 +1,4 @@
-%Correlations between PCC-DLPFC functional decoupling and the behavioural outcomes (SMS-Mind, BCT and DASS)
+%Correlations between the day 2 PCC-DLPFC functional decoupling and the behavioural outcomes (SMS-Mind, BCT and DASS)
 
 clear
 close all
