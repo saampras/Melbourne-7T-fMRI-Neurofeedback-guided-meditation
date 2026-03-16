@@ -8,4 +8,4 @@ The scripts use Psychtoolbox version 3.1
 
 
 
-Citation: Ganesan, S., Van Dam, N., Kamboj, S. K., Tsuchiyagaito, A., Sacchet, M. D., Misaki, M., Moffat, B. A., Lorenzetti, V., & Zalesky, A. (2024). High-precision neurofeedback-guided meditation training optimises real-world self-guided meditation practice for well-being. In bioRxiv (p. 2024.10.25.618656). https://doi.org/10.1101/2024.10.25.618656
+Citation: Ganesan, S., Van Dam, N., Kamboj, S. et al. Neurofeedback Training Facilitates Awareness and Enhances Emotional Well-being Associated with Real-World Meditation Practice: A 7-T MRI Study. Mindfulness 16, 2787–2807 (2025). https://doi.org/10.1007/s12671-025-02671-z
